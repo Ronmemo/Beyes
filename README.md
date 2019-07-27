@@ -10,3 +10,8 @@ Google Colabで操作する場合，
 !pip install arviz
 
 が必要になることがあります。
+
+
+Graphizについて
+
+https://graphviz.readthedocs.io/en/stable/
